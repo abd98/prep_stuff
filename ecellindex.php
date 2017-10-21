@@ -54,8 +54,8 @@ $name ='Daipayan Mukherjee';
 <div class="page">
     <div class="section jumbo">
         <div class="logos">
-            <img src="main_logo.png"/>
-            <img src= "main_logo2.png"/>
+            <img src="assets/images/main_logo.png"/>
+            <img src= "assets/images/main_logo2.png"/>
         </div>
         <div class="headingz">
             <span style="font-size: 60px"> JADAVPUR UNIVERSITY<br> E CELL</span>
