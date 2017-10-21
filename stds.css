@@ -1,0 +1,25 @@
+.mainav{
+	float:right;
+	list-style:none;
+	margin-top:40px;
+	size:10px;
+	
+	
+	
+}
+.mainav li{
+	
+	display:inline-block;
+	margin-left:20px;
+}
+.mainav li p{
+	
+	color:white;
+	text-decoration:none;
+}
+.mainav li p:hover{
+	color:#3BC481;
+	border-bottom:2px solid #3BC481;
+	transition:all 0.3s ease-in;
+	padding:20px 0;
+}

@@ -8,6 +8,7 @@
       <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
       <link rel="stylesheet" type="text/css" href="slick/slick.css"/>
       <link rel="stylesheet" type="text/css" href="slick/slick-theme.css"/>
+	   
       <script type="text/javascript" src="https://code.jquery.com/jquery-1.11.0.min.js"></script>
       <script type="text/javascript" src="https://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
       <script type="text/javascript" src="slick/slick.min.js"></script>
@@ -15,28 +16,28 @@
 	  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
    </head>
    <body>
-      <header class="main_h">
+      <header class="  main_h">
          <div class="row">
             <a class="logo" href="#"><img src="assets/images/main_logo.png"  style="height: 50px"/>
             </a>
             <div class="mobile-toggle">
                <span></span>
-               <span></span>
-               <span></span>
-            </div>
+               
+               
+            </div >
             <nav>
-               <ul>
+               <ul class="container mana">
                   <li>
-                     <p href="#">ABOUT</p>
+                     <a href="#">ABOUT</a>
                   </li>
                   <li>
-                     <p href="#">CONTACT</p>
+                     <a href="#">CONTACT</a>
                   </li>
                   <li>
-                     <p href="#">THE TEAM</p>
+                     <a href="#">THE TEAM</a>
                   </li>
                   <li>
-                     <p href="#">APPLY</p>
+                     <a href="#">APPLY     </a>
                   </li>
                </ul>
             </nav>
